@@ -1,23 +1,67 @@
-# NexoByte Tech — Web corporativa
+<div align="center">
 
-Web estática en español, adaptable a móviles y preparada para GitHub Pages. No necesita instalación, compilación ni claves privadas.
+<img src="./favicon.svg" width="72" height="72" alt="NexoByte Tech">
 
-## Publicar en GitHub Pages
+# NexoByte Tech
 
-1. En la organización `nexobyte-tech-hq`, crea un repositorio público llamado `nexobyte-tech-hq.github.io`.
-2. Sube los archivos de esta carpeta directamente a la raíz del repositorio, especialmente `index.html`, `styles.css`, `favicon.svg` y `.nojekyll`. No subas el ZIP como un único archivo.
-3. Abre **Settings → Pages**.
-4. Selecciona **Deploy from a branch**, rama **main**, carpeta **/(root)** y guarda.
-5. Cuando GitHub termine el despliegue, la dirección prevista es https://nexobyte-tech-hq.github.io/.
+### Ideas conectadas. Software con propósito.
 
-## Contacto e identidad
+Desarrollo web · Software a medida · Comunicación digital
 
-La web enlaza a la organización real facilitada por el usuario. No incluye un formulario de envío, correo o dominio sin confirmar. El botón de contacto abre el perfil de GitHub y no envía mensajes. Sustituye ese enlace por el correo empresarial o un canal de contacto real cuando esté disponible.
+Creamos soluciones digitales para conectar negocios, personas e ideas.
 
-El sitio no declara clientes, certificaciones, experiencia, casos de éxito ni verificación oficial. La publicación en Pages no concede una insignia de organización verificada.
+**[Visita nuestra web](https://nexobyte-tech-hq.github.io/) · [Hablemos de tu proyecto](mailto:jeremy.voss@pixelsoftgames.com) · [Nuestra organización](https://github.com/nexobyte-tech-hq)**
 
-Las fuentes de Google son opcionales y tienen alternativas locales. Los gráficos y el icono se incluyen en el código del sitio.
+</div>
 
-## Editar
+---
 
-Contenido: `index.html`. Colores y diseño: `styles.css`. Icono: `favicon.svg`.
+## Tecnología que empieza por tu negocio
+
+NexoByte Tech es una iniciativa tecnológica enfocada en el desarrollo de experiencias web, herramientas de software e integraciones de comunicación para negocios y emprendedores.
+
+Nuestra propuesta parte de una idea: entender qué necesitas resolver antes de decidir qué construir. Priorizamos el diseño funcional, un alcance claro y soluciones que puedan evolucionar con cada proyecto.
+
+## Áreas de trabajo
+
+| Área | Qué podemos construir contigo |
+| --- | --- |
+| **Desarrollo web** | Sitios empresariales, páginas de presentación y aplicaciones web que comuniquen tu propuesta y faciliten el contacto. |
+| **Software a medida** | Paneles, herramientas internas y aplicaciones adaptadas a las necesidades de cada negocio. |
+| **Integraciones y automatización** | Conexiones entre sistemas para simplificar tareas y mejorar el flujo de información. |
+| **Comunicación digital** | Integraciones de contacto, mensajería y funciones de llamadas según los requisitos y las plataformas del proyecto. |
+
+## De una idea a un proyecto concreto
+
+1. **Entender.** Conocer el objetivo, los usuarios y el problema que quieres resolver.
+2. **Definir.** Acordar prioridades, alcance y entregables.
+3. **Construir.** Diseñar y desarrollar mediante avances revisables.
+4. **Validar.** Revisar el funcionamiento y documentar la entrega.
+
+## Este repositorio
+
+Aquí se encuentra el código de nuestra web corporativa: una presentación de NexoByte Tech, sus áreas de trabajo y sus canales de contacto.
+
+Desarrollada con **HTML, CSS y JavaScript**, con diseño adaptable a móviles y publicación mediante **GitHub Pages**.
+
+Para actualizar el contenido o la configuración de publicación, consulta la [guía de mantenimiento](./MANTENIMIENTO.md).
+
+## Construyamos la siguiente conexión
+
+¿Tienes una idea, necesitas una web o quieres mejorar un proceso de tu negocio? Cuéntanos qué quieres conseguir.
+
+**Correo:** [jeremy.voss@pixelsoftgames.com](mailto:jeremy.voss@pixelsoftgames.com)
+
+**Web:** [nexobyte-tech-hq.github.io](https://nexobyte-tech-hq.github.io/)
+
+**GitHub:** [@nexobyte-tech-hq](https://github.com/nexobyte-tech-hq)
+
+---
+
+<div align="center">
+
+**NexoByte Tech**
+
+Diseñar. Desarrollar. Conectar.
+
+</div>
